@@ -15,7 +15,7 @@
   </head>
   <body>
     <h1> ChessBoard</h1>
-    <h1> Made By Saad and Adyan</h1>
+    <h1> Made By  Adyan</h1>
     <table border="1" align="center">
       <tr height="60px">
         <td width="60px" style="font-size:40px; text-align:center;color:#fff;" bgcolor="#000">
